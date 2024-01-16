@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/repasoReact1/static/css/main.29dda57f.css",
+    "main.js": "/repasoReact1/static/js/main.21468d2e.js",
+    "static/js/787.649359f0.chunk.js": "/repasoReact1/static/js/787.649359f0.chunk.js",
+    "static/media/instagram.png": "/repasoReact1/static/media/instagram.4b5db7ba39c7e588fc6b.png",
+    "static/media/whatsapp.png": "/repasoReact1/static/media/whatsapp.e9a8d747349bc583861d.png",
+    "static/media/facebook.png": "/repasoReact1/static/media/facebook.1e4a2c4f74d367753c6f.png",
+    "static/media/tiktok.png": "/repasoReact1/static/media/tiktok.05ee37ad0ea89cb35c45.png",
+    "index.html": "/repasoReact1/index.html",
+    "main.29dda57f.css.map": "/repasoReact1/static/css/main.29dda57f.css.map",
+    "main.21468d2e.js.map": "/repasoReact1/static/js/main.21468d2e.js.map",
+    "787.649359f0.chunk.js.map": "/repasoReact1/static/js/787.649359f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29dda57f.css",
+    "static/js/main.21468d2e.js"
+  ]
+}
